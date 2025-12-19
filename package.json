@@ -1,0 +1,26 @@
+{
+  "name": "landing-page-assessment",
+  "version": "1.0.0",
+  "description": "Accessible landing page with dark mode support",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitatmax/Landing-Page-Assessment.git"
+  },
+  "keywords": ["accessibility", "wcag", "landing-page", "dark-mode"],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitatmax/Landing-Page-Assessment/issues"
+  },
+  "homepage": "https://github.com/gitatmax/Landing-Page-Assessment#readme",
+  "devDependencies": {
+    "sass": "^1.97.0",
+    "vite": "^7.3.0"
+  }
+}

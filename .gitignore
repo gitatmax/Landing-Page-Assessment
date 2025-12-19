@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+# dist-ssr/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
+.temp/
