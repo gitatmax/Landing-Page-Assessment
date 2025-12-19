@@ -17,6 +17,12 @@ npm run preview  # Preview production build
 - Vanilla JS
 - SCSS for styling
 
-## Lighthouse Accessibility Score
+## Lighthouse / PageSpeed Insights Scores
 
-[Screenshot/report to be added after deployment]
+### Mobile
+![Mobile PageSpeed Insights](mobile-pagespeed-insights.png)
+
+### Desktop
+![Desktop PageSpeed Insights](desktop-pagespeed-insights.png)
+
+
