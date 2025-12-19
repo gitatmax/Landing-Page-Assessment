@@ -24,5 +24,3 @@ npm run preview  # Preview production build
 
 ### Desktop
 ![Desktop PageSpeed Insights](desktop-pagespeed-insights.png)
-
-
