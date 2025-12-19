@@ -1,6 +1,6 @@
 # Accessible Landing Page
 
-> **Note:** Built within assessment timeframe & prioritizing its requirements. Content and copy are intentionally minimal- with a real product and brand guidelines, this would be likely be significantly expanded. Features automatic dark mode via `prefers-color-scheme`, respects `prefers-reduced-motion` for animations, and has been tested in latest Chrome/Firefox/Safari. Form submission is currently simulated.
+> **Note:** Built within assessment timeframe & prioritizing its requirements. Content and copy are intentionally minimal- with a real product and brand guidelines, this would likely be significantly expanded. Features automatic dark mode via `prefers-color-scheme`, respects `prefers-reduced-motion` for animations, and tested it on the latest Chrome/Firefox/Safari. Form submission is currently simulated.
 
 ## Quick Start
 
